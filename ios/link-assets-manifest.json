@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/calibri.ttf",
+      "sha1": "649a1ed83f061c390fa87238303393c082360181"
+    },
+    {
+      "path": "assets/fonts/calibrib.ttf",
+      "sha1": "7c42fc94d0708eaf5622185548685d1e2983dae6"
+    },
+    {
+      "path": "assets/fonts/calibrii.ttf",
+      "sha1": "7046420cd24a8c33067a3ed2a6ed5cfa0bf2af8a"
+    },
+    {
+      "path": "assets/fonts/calibril.ttf",
+      "sha1": "4faee64adbe22fef9ac937f98c0174a5f2adacf5"
+    },
+    {
+      "path": "assets/fonts/calibrili.ttf",
+      "sha1": "2f97fb61dfc7236067f0d5e0d4ce6489c14e1bf7"
+    },
+    {
+      "path": "assets/fonts/calibriz.ttf",
+      "sha1": "45cb72fd0d88f4f6b9623960efd63bb6ffcb8040"
+    }
+  ]
+}
